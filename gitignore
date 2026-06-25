@@ -1,0 +1,37 @@
+# ---------------------------------------------------------------------------
+# Data — too large for GitHub. Kept locally / regenerated via the pipeline.
+# The folder structure is preserved with .gitkeep files (see README).
+# ---------------------------------------------------------------------------
+data/raw/*
+data/interim/*
+data/processed/*
+!data/**/.gitkeep
+
+# Optional: uncomment to also keep generated outputs out of the repo.
+# output/figures/*
+# output/tables/*
+# !output/**/.gitkeep
+
+# Local API cache created by the scraper
+nhl_cache/
+
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# ---------------------------------------------------------------------------
+# OS / editor
+# ---------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
