@@ -48,13 +48,13 @@ cloning.
 
 To reproduce the dataset, place the following raw files in `data/raw/`:
 
-| File                | Source                                                            |
-|---------------------|-------------------------------------------------------------------|
-| `NHL_EventData.csv` | NHL public API, scraped with `src/scrape_nhl_eventdata.py`        |
-| `NHL_Shifts.csv`    | hockey-statistics.com                                             |
-| `NHL_Schedule.csv`  | hockey-statistics.com                                             |
-| `NHL_Players.csv`   | hockey-statistics.com                                             |
-| `results-and-odds.csv` | hockey-statistics.com                                         |
+| File                | Source                                                                                       |
+|---------------------|----------------------------------------------------------------------------------------------|
+| `NHL_EventData.csv` | NHL public API, scraped with `src/scrape_nhl_eventdata.py` or hockey-statistics.com          |
+| `NHL_Shifts.csv`    | hockey-statistics.com                                                                        |
+| `NHL_Schedule.csv`  | hockey-statistics.com                                                                        |
+| `NHL_Players.csv`   | hockey-statistics.com                                                                        |
+| `results-and-odds.csv` | hockey-statistics.com                                                                     |
 
 Running the scraper:
 
