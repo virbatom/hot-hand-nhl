@@ -1,0 +1,13 @@
+Exposure,Distribution,Score state,IRR_scored,p_value,N
+Game-clock,Poisson,No,0.9379,<.001,561051
+Game-clock,Neg. Binomial,No,0.937,<.001,561051
+Game-clock,Neg. Binomial,Yes,1.0061,.463,561051
+Game-clock,Poisson,Yes,1.0061,.439,561051
+TOI,Poisson,No,0.9054,<.001,557355
+TOI,Neg. Binomial,No,0.905,<.001,557355
+TOI,Neg. Binomial,Yes,0.9444,<.001,557355
+TOI,Poisson,Yes,0.9449,<.001,557355
+Game-clock,Zero-Trunc. Poisson,No,1.0283,<.001,407027
+Game-clock,Zero-Trunc. Poisson,Yes,1.1066,<.001,407027
+TOI,Zero-Trunc. Poisson,No,1.0066,.163,407027
+TOI,Zero-Trunc. Poisson,Yes,1.0554,<.001,407027

@@ -1,0 +1,5 @@
+,rows,cols,desc
+NHL_EventData,8045421,54,Play-by-play events (every on-ice action)
+NHL_Players,8662,10,Player biographical data
+NHL_Schedule,68731,11,Game schedule with scores
+Analysis Panel,561067,45,"Player × game observations (2010–2025, 5v5)"

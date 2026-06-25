@@ -1,0 +1,9 @@
+Variable,Scorers_mean,Scorers_std,NonScorers_mean,NonScorers_std,Diff
+corsi_total,3.674,1.928,2.734,1.671,0.94
+sog_total,2.431,1.334,1.38,1.185,1.051
+xg_per_shot_total,0.12,0.071,0.081,0.068,0.039
+xg_total,0.348,0.256,0.165,0.187,0.184
+career_games_pre,420.073,313.58,394.85,312.445,25.222
+career_season_num,7.045,4.08,6.92,4.141,0.125
+corsi_pre_split,1.427,1.55,1.382,1.183,0.045
+corsi_post_split,1.271,1.488,1.352,1.219,-0.081
